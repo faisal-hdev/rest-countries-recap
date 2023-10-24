@@ -16,6 +16,6 @@ const Header = () => {
             <hr />
         </div>
     );
-};
+}
 
 export default Header;

@@ -19,6 +19,6 @@ const Countries = () => {
             </div>
         </div>
     );
-};
+}
 
 export default Countries;
