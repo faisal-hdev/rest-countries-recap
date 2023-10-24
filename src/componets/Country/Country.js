@@ -8,8 +8,8 @@ const Country = (props) => {
         <div className='country'>
             <p>Region : {region}</p>
             <p>Population : {population}</p>
-            <img src={flags.png} alt="" />
             <h2>Country Name : {name.common}</h2>
+            <img style={{width:'170px'}} src={flags.png} alt="" />
         </div>
     );
 }
